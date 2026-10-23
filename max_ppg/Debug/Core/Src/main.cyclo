@@ -1,0 +1,8 @@
+../Core/Src/main.c:63:6:max30102_plot	3
+../Core/Src/main.c:84:5:main	2
+../Core/Src/main.c:163:6:SystemClock_Config	3
+../Core/Src/main.c:209:13:MX_I2C1_Init	2
+../Core/Src/main.c:243:13:MX_GPIO_Init	1
+../Core/Src/main.c:271:6:HAL_GPIO_EXTI_Callback	2
+../Core/Src/main.c:288:6:HAL_TIM_PeriodElapsedCallback	2
+../Core/Src/main.c:306:6:Error_Handler	1

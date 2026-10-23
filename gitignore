@@ -1,0 +1,50 @@
+# Build output directories
+Debug/
+Release/
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+*.su
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Executables and Binaries
+*.exe
+*.out
+*.app
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+
+# Dependency directories
+*.d
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE specific files
+.metadata/
+# (Optional) Ignore the local settings directory if you don't want to share code formatting/UI preferences
+# .settings/
