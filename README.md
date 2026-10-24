@@ -7,6 +7,8 @@ This repository contains a complete MAX30102 pulse oximeter / photoplethysmograp
 
 The project is designed for rapid prototyping and lab work with a MAX30102 sensor connected to an STM32 development board.
 
+Thís project use a public HAL driver for MAX30102: https://github.com/eepj/stm32-max30102
+
 ## Project overview
 
 ### 1) STM32 firmware (`max_ppg/`)
@@ -203,10 +205,3 @@ This repository includes an open-source license file (`LICENSE`).
 - PyQt5 documentation
 - Matplotlib documentation
 - pySerial documentation
-
-If you want, I can also generate a more polished version with:
-
-- a schematic/wiring diagram section
-- an image banner
-- a troubleshooting section for serial port issues
-- Windows/Linux/macOS-specific setup instructions
