@@ -80,6 +80,8 @@ Typical connection concept:
 - MAX30102 GND -> GND
 - MAX30102 INT -> optional GPIO interrupt pin (if using interrupt-driven approach)
 
+I can't use the INT pin since my module is pretty cheap, interrupt pin often don't work on cheaper module, current project I set a timer for sampling (hardcoded 20ms)
+
 ## Software dependencies
 
 ### Python dependencies
